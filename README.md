@@ -15,7 +15,6 @@ Return: List of Cars
         "price": 100000,
         "dealer": 2
     },
-    ...
     {
         "id": 7,
         "vin": "1234567890qwertya",
@@ -75,7 +74,6 @@ Return: List of Brands
         "id": 6,
         "name": "Toyota"
     },
-    ...
     {
         "id": 7,
         "name": "Lexus"
@@ -120,7 +118,6 @@ Return: List of Dealers
         "id": 6,
         "name": "Toyota Center Moscow"
     },
-    ...
     {
         "id": 7,
         "name": "Lexus Official Dealer"
